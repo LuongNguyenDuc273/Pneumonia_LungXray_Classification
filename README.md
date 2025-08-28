@@ -1,0 +1,2 @@
+- Thư mục notebook chưa file ipynb huấn luyện mô hình
+- Thư mục chứa file web ứng dụng mô hình đã được huấn luyện
