@@ -1,0 +1,10 @@
+tại terminal gõ các prompt sau
+# 1. Mở terminal trong thư mục dự án
+python -m venv .venv
+.venv\Scripts\activate        # (Windows)  |  source .venv/bin/activate (macOS/Linux)
+
+# 2. Cài thư viện
+pip install -r requirements.txt
+
+# 3. Chạy app
+streamlit run app.py

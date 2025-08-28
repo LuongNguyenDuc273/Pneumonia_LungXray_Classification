@@ -1,0 +1,5 @@
+streamlit>=1.33        # phiên bản mới nhất ổn định
+tensorflow==2.16.1      # hoặc bản bạn đã train model
+opencv-python-headless  # tránh lỗi GUI trên server
+pillow
+numpy
